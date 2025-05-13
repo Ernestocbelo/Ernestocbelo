@@ -1,4 +1,6 @@
-## Hello! I'm Ernesto 👋
+<!-- ## Hello! I'm Ernesto 👋 -->
+
+![Ernesto C. Belo](img/github-header-image.png)
 
 <!--
 **Ernestocbelo/Ernestocbelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
